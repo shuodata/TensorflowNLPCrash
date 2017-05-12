@@ -30,3 +30,4 @@ Inference and generate poetry.
 ```
 ./generate_text.py --mode inference --inference_start_word l
 ```
+ 
